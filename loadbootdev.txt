@@ -1,0 +1,4 @@
+# For Linux/WSL
+echo 'export PATH=$PATH:$HOME/.local/opt/go/bin' >> ~/.bashrc
+# next, reload your shell configuration
+source ~/.bashrc
